@@ -1,0 +1,57 @@
+[
+  {
+  "key": "Anladım",
+  "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.RelativeLayout/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View[4]/android.widget.Button",
+  "androidType": "xpath",
+  "iosValue": "-",
+  "iosType": "id"
+},
+  {
+    "key": "SepeteEkle",
+    "androidValue": "//android.view.View[@content-desc=\"SEPETE EKLE\"]",
+    "androidType": "xpath",
+    "iosValue": "-",
+    "iosType": "id"
+  },
+
+  {
+    "key": "SolMenuCepTelefonu",
+    "androidValue": "//android.view.View[@content-desc=\"CEP TELEFONU\"]",
+    "androidType": "xpath",
+    "iosValue": "-",
+    "iosType": "id"
+  },
+
+  {
+    "key": "Filtrele",
+    "androidValue": "//android.view.View[@content-desc=\"Filtrele\"]",
+    "androidType": "xpath",
+    "iosValue": "-",
+    "iosType": "id"
+  },
+
+  {
+    "key": "StokDurumu",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.RelativeLayout/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View[1]/android.view.View[7]/android.view.View/android.view.View[2]",
+    "androidType": "xpath",
+    "iosValue": "-",
+    "iosType": "id"
+  },
+
+  {
+    "key": "btnStok",
+    "androidValue": "//android.view.View[@content-desc=\"Stoklu Ürünler\"]/android.view.View[2]",
+    "androidType": "xpath",
+    "iosValue": "-",
+    "iosType": "id"
+  },
+
+   {
+    "key": "SolMenuTelefon",
+    "androidValue": "//android.view.View[@content-desc=\"TELEFON\"]",
+    "androidType": "xpath",
+    "iosValue": "-",
+    "iosType": "id"
+   }
+
+]

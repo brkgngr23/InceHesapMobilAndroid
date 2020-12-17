@@ -1,0 +1,8 @@
+<testsuites>
+	<testsuite id="1" tests="1" failures="0" package="/Users/testinium/Downloads/Mobile/specs/example.spec" time="137.989" timestamp="2020-12-18T00:03:34" name="Specification Heading" errors="0" hostname="Testiniums-MacBook-Pro.local">
+		<properties></properties>
+		<testcase classname="Specification Heading" name="İncehesap senaryo 1" time="137.989"></testcase>
+		<system-out></system-out>
+		<system-err></system-err>
+	</testsuite>
+</testsuites>

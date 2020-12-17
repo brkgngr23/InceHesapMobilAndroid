@@ -1,0 +1,35 @@
+[
+  {
+    "key": "UyeGiris",
+    "androidValue": "//android.view.View[@content-desc=\"ÜYE GİRİŞİ YAP\"]",
+    "androidType": "xpath",
+    "iosValue": "-",
+    "iosType": "id"
+  },
+
+  {
+    "key": "Username",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.RelativeLayout/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View[1]/android.view.View/android.view.View/android.view.View[1]/android.view.View[1]/android.widget.EditText",
+    "androidType": "xpath",
+    "iosValue": "-",
+    "iosType": "id"
+  },
+
+  {
+    "key": "GirisYap",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.RelativeLayout/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View[1]/android.view.View/android.view.View/android.view.View[1]/android.view.View[4]/android.widget.Button\n",
+    "androidType": "xpath",
+    "iosValue": "-",
+    "iosType": "id"
+  },
+
+  {
+    "key": "Password",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.RelativeLayout/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View[1]/android.view.View/android.view.View/android.view.View[1]/android.view.View[2]/android.widget.EditText\n",
+    "androidType": "xpath",
+    "iosValue": "-",
+    "iosType": "id"
+  }
+
+
+]

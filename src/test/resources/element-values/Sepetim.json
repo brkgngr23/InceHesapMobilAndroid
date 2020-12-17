@@ -1,0 +1,17 @@
+[
+  {
+  "key": "SatınAl",
+  "androidValue": "//android.view.View[@content-desc=\"SATIN AL \"]",
+  "androidType": "xpath",
+  "iosValue": "-",
+  "iosType": "id"
+},
+  {
+    "key": "SepetiBoşalt",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.RelativeLayout/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View[1]/android.view.View[4]/android.view.View[3]/android.view.View/android.widget.Button[1]",
+    "androidType": "xpath",
+    "iosValue": "-",
+    "iosType": "id"
+  }
+
+]

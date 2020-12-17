@@ -1,0 +1,412 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+{"logLevel":"debug","message":"gauge-java took 1387milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 1387"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.tapElementWithKey' and 'com.Testinium.inceHesap.StepImpl.tapElementWithKey'"}
+{"logLevel":"debug","message":"Found {} li elementin  merkezine tıkla  in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.clickByTextonPincodeArea' and 'com.Testinium.inceHesap.StepImpl.clickByTextonPincodeArea'"}
+{"logLevel":"debug","message":"Found Pincode Değeri {} e eşit olan elementli bul ve tıkla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.clickByTextonPincodeArea' and 'com.Testinium.inceHesap.StepImpl.clickByTextonPincodeArea'"}
+{"logLevel":"debug","message":"Found Find element pincode area equals {} and click in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.getElementWithKeyIfExists' and 'com.Testinium.inceHesap.StepImpl.getElementWithKeyIfExists'"}
+{"logLevel":"debug","message":"Found Check if element {} exists in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.getElementWithKeyIfExists' and 'com.Testinium.inceHesap.StepImpl.getElementWithKeyIfExists'"}
+{"logLevel":"debug","message":"Found Wait for element to load with key {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.getElementWithKeyIfExists' and 'com.Testinium.inceHesap.StepImpl.getElementWithKeyIfExists'"}
+{"logLevel":"debug","message":"Found Element var mı kontrol et {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.getElementWithKeyIfExists' and 'com.Testinium.inceHesap.StepImpl.getElementWithKeyIfExists'"}
+{"logLevel":"debug","message":"Found Elementin yüklenmesini bekle {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.containsTextByKey' and 'com.Testinium.inceHesap.StepImpl.containsTextByKey'"}
+{"logLevel":"debug","message":"Found {} li elementin değeri {} e içerdiğini kontrol et in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.containsTextByKey' and 'com.Testinium.inceHesap.StepImpl.containsTextByKey'"}
+{"logLevel":"debug","message":"Found Find element by {} and text contains {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.isTextBoxEditable' and 'com.Testinium.inceHesap.StepImpl.isTextBoxEditable'"}
+{"logLevel":"debug","message":"Found {} li elemente {} text değeri yazılabilir mi in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.selectDropdawnoNKey' and 'com.Testinium.inceHesap.StepImpl.selectDropdawnoNKey'"}
+{"logLevel":"debug","message":"Found Dropdown dan key {} alanını seç in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.closePopupAndCookie' and 'com.Testinium.inceHesap.StepImpl.closePopupAndCookie'"}
+{"logLevel":"debug","message":"Found pop-up izin ver in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.sendKeysByKeyNotClear' and 'com.Testinium.inceHesap.StepImpl.sendKeysByKeyNotClear'"}
+{"logLevel":"debug","message":"Found {} li elementi bul ve {} değerini yaz in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.sendKeysByKeyNotClear' and 'com.Testinium.inceHesap.StepImpl.sendKeysByKeyNotClear'"}
+{"logLevel":"debug","message":"Found Find element by {} and send keys {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.setContext' and 'com.Testinium.inceHesap.StepImpl.setContext'"}
+{"logLevel":"debug","message":"Found Change context to {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.bulTikla' and 'com.Testinium.inceHesap.StepImpl.bulTikla'"}
+{"logLevel":"debug","message":"Found {} li elementi bul {} kere tıkla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.TestiniumPage' and 'com.Testinium.inceHesap.StepImpl.TestiniumPage'"}
+{"logLevel":"debug","message":"Found Testinium in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.ClicTick_Symbol_Btn' and 'com.Testinium.inceHesap.StepImpl.ClicTick_Symbol_Btn'"}
+{"logLevel":"debug","message":"Found Click element by Tick_Symbol_Btn in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.waitByMilliSeconds' and 'com.Testinium.inceHesap.StepImpl.waitByMilliSeconds'"}
+{"logLevel":"debug","message":"Found Wait {} milliseconds in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.waitByMilliSeconds' and 'com.Testinium.inceHesap.StepImpl.waitByMilliSeconds'"}
+{"logLevel":"debug","message":"Found {} milisaniye bekle in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.sendKeysValueOfClear' and 'com.Testinium.inceHesap.StepImpl.sendKeysValueOfClear'"}
+{"logLevel":"debug","message":"Found {} li elementi bul ve {} değerini tek tek yaz in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.pressTabKeyForAndroid' and 'com.Testinium.inceHesap.StepImpl.pressTabKeyForAndroid'"}
+{"logLevel":"debug","message":"Found Press TAB for android in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.debugStep' and 'com.Testinium.inceHesap.StepImpl.debugStep'"}
+{"logLevel":"debug","message":"Found Debug step in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.clickByValue' and 'com.Testinium.inceHesap.StepImpl.clickByValue'"}
+{"logLevel":"debug","message":"Found İçeriği {} e eşit olan {}. elementi bul ve tıkla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.clickByValue' and 'com.Testinium.inceHesap.StepImpl.clickByValue'"}
+{"logLevel":"debug","message":"Found İçeriği {} e eşit olan elementli bul ve tıkla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.clickByValue' and 'com.Testinium.inceHesap.StepImpl.clickByValue'"}
+{"logLevel":"debug","message":"Found Find element value equals {} and click in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.logout' and 'com.Testinium.inceHesap.StepImpl.logout'"}
+{"logLevel":"debug","message":"Found Kullanıcı girişi yapılmışsa çıkış yap in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.clickOKButton' and 'com.Testinium.inceHesap.StepImpl.clickOKButton'"}
+{"logLevel":"debug","message":"Found Tamam butonuna tıkla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.clickByKeyWithSwipe' and 'com.Testinium.inceHesap.StepImpl.clickByKeyWithSwipe'"}
+{"logLevel":"debug","message":"Found {} li elementi bulana kadar swipe et ve tıkla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.clickByKeyWithSwipe' and 'com.Testinium.inceHesap.StepImpl.clickByKeyWithSwipe'"}
+{"logLevel":"debug","message":"Found Find element by {}  swipe and click in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.clickByKeyWithSwipe' and 'com.Testinium.inceHesap.StepImpl.clickByKeyWithSwipe'"}
+{"logLevel":"debug","message":"Found {} li ve değeri {} e eşit olan elementli bulana kadar swipe et ve tıkla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.clickByKeyWithSwipe' and 'com.Testinium.inceHesap.StepImpl.clickByKeyWithSwipe'"}
+{"logLevel":"debug","message":"Found Find element by {} text equals {} swipe and click in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.existClickByKey' and 'com.Testinium.inceHesap.StepImpl.existClickByKey'"}
+{"logLevel":"debug","message":"Found {} li elementi bul ve varsa tıkla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.existClickByKey' and 'com.Testinium.inceHesap.StepImpl.existClickByKey'"}
+{"logLevel":"debug","message":"Found Click element by {} if exist in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.checkElementNotExists' and 'com.Testinium.inceHesap.StepImpl.checkElementNotExists'"}
+{"logLevel":"debug","message":"Found Check if element {} not exists in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.checkElementNotExists' and 'com.Testinium.inceHesap.StepImpl.checkElementNotExists'"}
+{"logLevel":"debug","message":"Found Element yok mu kontrol et {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.checkElementContainsText' and 'com.Testinium.inceHesap.StepImpl.checkElementContainsText'"}
+{"logLevel":"debug","message":"Found Check if element {} contains text {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.checkElementContainsText' and 'com.Testinium.inceHesap.StepImpl.checkElementContainsText'"}
+{"logLevel":"debug","message":"Found {} elementi {} değerini içeriyor mu kontrol et in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.isElementExist' and 'com.Testinium.inceHesap.StepImpl.isElementExist'"}
+{"logLevel":"debug","message":"Found {} li elementi bul yoksa {} mesajını hata olarak göster in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.isElementExist' and 'com.Testinium.inceHesap.StepImpl.isElementExist'"}
+{"logLevel":"debug","message":"Found Find element by {} if not exist show error message {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.swipeUP' and 'com.Testinium.inceHesap.StepImpl.swipeUP'"}
+{"logLevel":"debug","message":"Found {} kere yukarı doğru kaydır in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.swipeUP' and 'com.Testinium.inceHesap.StepImpl.swipeUP'"}
+{"logLevel":"debug","message":"Found Swipe up times {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.clickByIdWithContains' and 'com.Testinium.inceHesap.StepImpl.clickByIdWithContains'"}
+{"logLevel":"debug","message":"Found {} li ve değeri {} e eşit olan elementli bul ve tıkla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.clickByIdWithContains' and 'com.Testinium.inceHesap.StepImpl.clickByIdWithContains'"}
+{"logLevel":"debug","message":"Found Find element by {} text equals {} and click in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.fiveSecondsWait' and 'com.Testinium.inceHesap.StepImpl.fiveSecondsWait'"}
+{"logLevel":"debug","message":"Found 5 saniye bekle in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.sendKeysWithAndroidKey' and 'com.Testinium.inceHesap.StepImpl.sendKeysWithAndroidKey'"}
+{"logLevel":"debug","message":"Found {} değerini klavye ile yaz in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.coordinateTap' and 'com.Testinium.inceHesap.StepImpl.coordinateTap'"}
+{"logLevel":"debug","message":"Found sayfadaki {} {}  alana dokun in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.createRandomNumber' and 'com.Testinium.inceHesap.StepImpl.createRandomNumber'"}
+{"logLevel":"debug","message":"Found {} uzunlugunda random bir kelime üret ve {} olarak sakla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.isExistAndDisabled' and 'com.Testinium.inceHesap.StepImpl.isExistAndDisabled'"}
+{"logLevel":"debug","message":"Found {} li element sayfada bulunuyor mu ve disabled mı in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.onbesSaniyeBekle' and 'com.Testinium.inceHesap.StepImpl.onbesSaniyeBekle'"}
+{"logLevel":"debug","message":"Found 15 saniye bekle in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.SetObjectByindex' and 'com.Testinium.inceHesap.StepImpl.SetObjectByindex'"}
+{"logLevel":"debug","message":"Found İd li {} elemetin {} index değerini al ve {} değerini yaz in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.pressEscKeyForAndroid' and 'com.Testinium.inceHesap.StepImpl.pressEscKeyForAndroid'"}
+{"logLevel":"debug","message":"Found Press ESC for android in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.tapElementWithCoordinate' and 'com.Testinium.inceHesap.StepImpl.tapElementWithCoordinate'"}
+{"logLevel":"debug","message":"Found Verilen {} {} koordinatına tıkla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.sliderSwipe' and 'com.Testinium.inceHesap.StepImpl.sliderSwipe'"}
+{"logLevel":"debug","message":"Found {},{},{} kaydır baakalım in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.ClickObjectByindex' and 'com.Testinium.inceHesap.StepImpl.ClickObjectByindex'"}
+{"logLevel":"debug","message":"Found İd li {} elemetin {} index değerini al ve elemente tıkla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.writeNewPassword' and 'com.Testinium.inceHesap.StepImpl.writeNewPassword'"}
+{"logLevel":"debug","message":"Found Yeni şifre {} ve yeni şifre tekrar {}  alanlarına tex değerlerini yaz in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.equalsSaveTextByKey' and 'com.Testinium.inceHesap.StepImpl.equalsSaveTextByKey'"}
+{"logLevel":"debug","message":"Found {} li elementi bul ve değerini {} saklanan değer ile karşılaştır in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.equalsSaveTextByKey' and 'com.Testinium.inceHesap.StepImpl.equalsSaveTextByKey'"}
+{"logLevel":"debug","message":"Found Find element by {} and compare saved key {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.swipe' and 'com.Testinium.inceHesap.StepImpl.swipe'"}
+{"logLevel":"debug","message":"Found {} kere aşağıya kaydır in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.swipe' and 'com.Testinium.inceHesap.StepImpl.swipe'"}
+{"logLevel":"debug","message":"Found Swipe times {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.selectPhotoFromGallery' and 'com.Testinium.inceHesap.StepImpl.selectPhotoFromGallery'"}
+{"logLevel":"debug","message":"Found Galeriden fotograf seç in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.swipe' and 'com.Testinium.inceHesap.StepImpl.swipe'"}
+{"logLevel":"debug","message":"Found  {} yönüne swipe et in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.maninPagewidgetControl' and 'com.Testinium.inceHesap.StepImpl.maninPagewidgetControl'"}
+{"logLevel":"debug","message":"Found Anasayfa widget kontrolü in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.pressElementWithKey' and 'com.Testinium.inceHesap.StepImpl.pressElementWithKey'"}
+{"logLevel":"debug","message":"Found {} li elementin  merkezine  press ile çift tıkla  in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.ClearText' and 'com.Testinium.inceHesap.StepImpl.ClearText'"}
+{"logLevel":"debug","message":"Found {} li elementi bul ve temizle in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.ClearText' and 'com.Testinium.inceHesap.StepImpl.ClearText'"}
+{"logLevel":"debug","message":"Found Find element by {} and clear text in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.clickByKeyWithSwipeDown' and 'com.Testinium.inceHesap.StepImpl.clickByKeyWithSwipeDown'"}
+{"logLevel":"debug","message":"Found {} li ve değeri {} e eşit olan elementi bulana kadar aşağı swipe et ve tıkla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.clickByKeyWithSwipeDown' and 'com.Testinium.inceHesap.StepImpl.clickByKeyWithSwipeDown'"}
+{"logLevel":"debug","message":"Found Find element by {} text equals {} swipe down and click in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.saveTextByKey' and 'com.Testinium.inceHesap.StepImpl.saveTextByKey'"}
+{"logLevel":"debug","message":"Found {} li elementi bul ve değerini {} olarak sakla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.saveTextByKey' and 'com.Testinium.inceHesap.StepImpl.saveTextByKey'"}
+{"logLevel":"debug","message":"Found Find element by {} and save text {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.existElement' and 'com.Testinium.inceHesap.StepImpl.existElement'"}
+{"logLevel":"debug","message":"Found {} li element sayfada bulunuyor mu kontrol et in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.existElement' and 'com.Testinium.inceHesap.StepImpl.existElement'"}
+{"logLevel":"debug","message":"Found Check if {} element exist in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.RandomeMail' and 'com.Testinium.inceHesap.StepImpl.RandomeMail'"}
+{"logLevel":"debug","message":"Found {} li elementi bul, temizle ve rasgele  email değerini yaz in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.RandomeMail' and 'com.Testinium.inceHesap.StepImpl.RandomeMail'"}
+{"logLevel":"debug","message":"Found Find element by {} clear and send keys  random email in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.pointToPointSwipe' and 'com.Testinium.inceHesap.StepImpl.pointToPointSwipe'"}
+{"logLevel":"debug","message":"Found {},{} oranlarından {},{} oranlarına {} kere swipe et in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.stokKontrol' and 'com.Testinium.inceHesap.StepImpl.stokKontrol'"}
+{"logLevel":"debug","message":"Found Urun stokta var mi kontrol et in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.pressElementWithKey2' and 'com.Testinium.inceHesap.StepImpl.pressElementWithKey2'"}
+{"logLevel":"debug","message":"Found {} li elementin  merkezine double tıkla  in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.closeKeyboard' and 'com.Testinium.inceHesap.StepImpl.closeKeyboard'"}
+{"logLevel":"debug","message":"Found Close Keyboard in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.equalsAttributeValue' and 'com.Testinium.inceHesap.StepImpl.equalsAttributeValue'"}
+{"logLevel":"debug","message":"Found {} li elementin {} attribute değerinin {} e eşit olduğunu kontrol et  in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.waitBySecond' and 'com.Testinium.inceHesap.StepImpl.waitBySecond'"}
+{"logLevel":"debug","message":"Found {} saniye bekle in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.waitBySecond' and 'com.Testinium.inceHesap.StepImpl.waitBySecond'"}
+{"logLevel":"debug","message":"Found Wait {} seconds in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.clickByKeyAndThenCloseKeyboard' and 'com.Testinium.inceHesap.StepImpl.clickByKeyAndThenCloseKeyboard'"}
+{"logLevel":"debug","message":"Found {} li elementi bul ve tıkla, sonra klavyeyi kapat in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.clickByKeyAndThenCloseKeyboard' and 'com.Testinium.inceHesap.StepImpl.clickByKeyAndThenCloseKeyboard'"}
+{"logLevel":"debug","message":"Found Click element by {} then close keyboard in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.coordinateTap2' and 'com.Testinium.inceHesap.StepImpl.coordinateTap2'"}
+{"logLevel":"debug","message":"Found sayfadaki {} {}  alana tıkla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.pressEnterKeyForAndroid' and 'com.Testinium.inceHesap.StepImpl.pressEnterKeyForAndroid'"}
+{"logLevel":"debug","message":"Found Press ENTER for android in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.swipeDownUntilSeeTheElement' and 'com.Testinium.inceHesap.StepImpl.swipeDownUntilSeeTheElement'"}
+{"logLevel":"debug","message":"Found {} id'li elementi bulana kadar {} swipe yap  in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.swipeDownUntilSeeTheElement' and 'com.Testinium.inceHesap.StepImpl.swipeDownUntilSeeTheElement'"}
+{"logLevel":"debug","message":"Found Find element by {}  {} swipe  in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.clickAndDelete' and 'com.Testinium.inceHesap.StepImpl.clickAndDelete'"}
+{"logLevel":"debug","message":"Found {} li elementi bul ve {} kere sil in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.swipeUntilToFindElement' and 'com.Testinium.inceHesap.StepImpl.swipeUntilToFindElement'"}
+{"logLevel":"debug","message":"Found {} li elementi bulana kadara yukarı swipe et in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.swipeAndFindwithKey' and 'com.Testinium.inceHesap.StepImpl.swipeAndFindwithKey'"}
+{"logLevel":"debug","message":"Found {} li elemente kadar {} textine sahip değilse ve {} saniyede bulamazsa swipe yappp in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.getPageSourceFindWord' and 'com.Testinium.inceHesap.StepImpl.getPageSourceFindWord'"}
+{"logLevel":"debug","message":"Found {} değerini sayfa üzerinde olup olmadığını kontrol et. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.tapElementWithKeyCoordinate' and 'com.Testinium.inceHesap.StepImpl.tapElementWithKeyCoordinate'"}
+{"logLevel":"debug","message":"Found {} li element varsa  {} {} koordinatına tıkla  in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.ClicSiginButton' and 'com.Testinium.inceHesap.StepImpl.ClicSiginButton'"}
+{"logLevel":"debug","message":"Found Click element by Sign_in_btn in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.clickByTextonPizza' and 'com.Testinium.inceHesap.StepImpl.clickByTextonPizza'"}
+{"logLevel":"debug","message":"Found Pizza {} e eşit olan elementli bul ve tıkla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.clickByTextonPizza' and 'com.Testinium.inceHesap.StepImpl.clickByTextonPizza'"}
+{"logLevel":"debug","message":"Found Find element pizza  equals {} and click in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.PopUpControl' and 'com.Testinium.inceHesap.StepImpl.PopUpControl'"}
+{"logLevel":"debug","message":"Found Pup-up Kontrolü yap in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.MiddlePageswipe' and 'com.Testinium.inceHesap.StepImpl.MiddlePageswipe'"}
+{"logLevel":"debug","message":"Found Sayfanın  ortasından itibaren  {} kere aşağıya kaydır in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.MiddlePageswipe' and 'com.Testinium.inceHesap.StepImpl.MiddlePageswipe'"}
+{"logLevel":"debug","message":"Found Middle  on page  and Swipe times {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.denemeCheckbox' and 'com.Testinium.inceHesap.StepImpl.denemeCheckbox'"}
+{"logLevel":"debug","message":"Found deneme checkbox in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.verifyToast' and 'com.Testinium.inceHesap.StepImpl.verifyToast'"}
+{"logLevel":"debug","message":"Found Verify toast message {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.doesElementExistByKey' and 'com.Testinium.inceHesap.StepImpl.doesElementExistByKey'"}
+{"logLevel":"debug","message":"Found {} li elementin yüklenmesini {} saniye bekle in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.clickLoginButton' and 'com.Testinium.inceHesap.StepImpl.clickLoginButton'"}
+{"logLevel":"debug","message":"Found giris yap butonuna tikla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.LoginControl' and 'com.Testinium.inceHesap.StepImpl.LoginControl'"}
+{"logLevel":"debug","message":"Found Uygulamada login kontrolünü yap in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.basiliTut' and 'com.Testinium.inceHesap.StepImpl.basiliTut'"}
+{"logLevel":"debug","message":"Found {} li elementi bul basılı tut in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.existTapByKey' and 'com.Testinium.inceHesap.StepImpl.existTapByKey'"}
+{"logLevel":"debug","message":"Found {} li elementi bul ve varsa dokun in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.existClickByKey' and 'com.Testinium.inceHesap.StepImpl.existTapByKey'"}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.existTapByKey' and 'com.Testinium.inceHesap.StepImpl.existTapByKey'"}
+{"logLevel":"debug","message":"Found Click element by {} if exist in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.checkElementIsNotEmpty' and 'com.Testinium.inceHesap.StepImpl.checkElementIsNotEmpty'"}
+{"logLevel":"debug","message":"Found Check if element {} is not empty in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.checkApp' and 'com.Testinium.inceHesap.StepImpl.checkApp'"}
+{"logLevel":"debug","message":"Found Uygulamanın açıldığını kontrol et in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.restart' and 'com.Testinium.inceHesap.StepImpl.restart'"}
+{"logLevel":"debug","message":"Found uygulamayı yeniden başlat in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.restart' and 'com.Testinium.inceHesap.StepImpl.restart'"}
+{"logLevel":"debug","message":"Found Restart the application in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.swipeFor5S' and 'com.Testinium.inceHesap.StepImpl.swipeFor5S'"}
+{"logLevel":"debug","message":"Found 5S için {} elementini bulana kadar yukarı kaydır in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.equalsTextByKey' and 'com.Testinium.inceHesap.StepImpl.equalsTextByKey'"}
+{"logLevel":"debug","message":"Found {} li elementin değeri {} e eşitliğini kontrol et in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.equalsTextByKey' and 'com.Testinium.inceHesap.StepImpl.equalsTextByKey'"}
+{"logLevel":"debug","message":"Found Find element by {} and text equals {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.checkElementEqualsText' and 'com.Testinium.inceHesap.StepImpl.checkElementEqualsText'"}
+{"logLevel":"debug","message":"Found Check if element {} equals text {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.checkElementEqualsText' and 'com.Testinium.inceHesap.StepImpl.checkElementEqualsText'"}
+{"logLevel":"debug","message":"Found {} elementi {} değerini eşit mi kontrol et in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.tenSecondsWait' and 'com.Testinium.inceHesap.StepImpl.tenSecondsWait'"}
+{"logLevel":"debug","message":"Found 10 saniye bekle in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.chooseRandomProduct' and 'com.Testinium.inceHesap.StepImpl.chooseRandomProduct'"}
+{"logLevel":"debug","message":"Found {} li elementi rasgele sec in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.clickByKey' and 'com.Testinium.inceHesap.StepImpl.clickByKey'"}
+{"logLevel":"debug","message":"Found {} li elementi bul ve tıkla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.clickByKey' and 'com.Testinium.inceHesap.StepImpl.clickByKey'"}
+{"logLevel":"debug","message":"Found Click element by {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.findByKeyWithSwipe' and 'com.Testinium.inceHesap.StepImpl.findByKeyWithSwipe'"}
+{"logLevel":"debug","message":"Found {} li elementi bulana kadar swipe et in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.findByKeyWithSwipe' and 'com.Testinium.inceHesap.StepImpl.findByKeyWithSwipe'"}
+{"logLevel":"debug","message":"Found Swipe down until find element by {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.swipeKeyy' and 'com.Testinium.inceHesap.StepImpl.swipeKeyy'"}
+{"logLevel":"debug","message":"Found {}li elementi bulana kadar {} kere swipe yap ve elementi bul in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.sendKeysByKey' and 'com.Testinium.inceHesap.StepImpl.sendKeysByKey'"}
+{"logLevel":"debug","message":"Found {} li elementi bul, temizle ve {} değerini yaz in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.sendKeysByKey' and 'com.Testinium.inceHesap.StepImpl.sendKeysByKey'"}
+{"logLevel":"debug","message":"Found Find element by {} clear and send keys {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.swipeDownFromMiddleOfPageBy' and 'com.Testinium.inceHesap.StepImpl.swipeDownFromMiddleOfPageBy'"}
+{"logLevel":"debug","message":"Found Sayfanın ortasından itibaren {} kere aşağıya kaydır in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.swipeDownFromMiddleOfPageBy' and 'com.Testinium.inceHesap.StepImpl.swipeDownFromMiddleOfPageBy'"}
+{"logLevel":"debug","message":"Found Swipe times {} from middle of the page in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.clickBybackButton' and 'com.Testinium.inceHesap.StepImpl.clickBybackButton'"}
+{"logLevel":"debug","message":"Found Geri butonuna bas in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.clickByText' and 'com.Testinium.inceHesap.StepImpl.clickByText'"}
+{"logLevel":"debug","message":"Found Değeri {} e eşit olan {}. elementi bul ve tıkla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.clickByText' and 'com.Testinium.inceHesap.StepImpl.clickByText'"}
+{"logLevel":"debug","message":"Found Değeri {} e eşit olan elementli bul ve tıkla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.clickByText' and 'com.Testinium.inceHesap.StepImpl.clickByText'"}
+{"logLevel":"debug","message":"Found Find element text equals {} and click in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.hideAndroidKeyboard' and 'com.Testinium.inceHesap.StepImpl.hideAndroidKeyboard'"}
+{"logLevel":"debug","message":"Found Klavyeyi kapat in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.Testinium.inceHesap.StepImpl.hideAndroidKeyboard' and 'com.Testinium.inceHesap.StepImpl.hideAndroidKeyboard'"}
+{"logLevel":"debug","message":"Found Hide keyboard in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\tGeri butonuna bas : public void clickBybackButton()"}
+{"logLevel":"debug","message":"\tFind element pincode area equals {} and click : public void clickByTextonPincodeArea(String text)"}
+{"logLevel":"debug","message":"\tSayfanın  ortasından itibaren  {} kere aşağıya kaydır : public void MiddlePageswipe(ınt times)"}
+{"logLevel":"debug","message":"\tPup-up Kontrolü yap : public void PopUpControl() throws InterruptedException"}
+{"logLevel":"debug","message":"\t{} li element sayfada bulunuyor mu kontrol et : public void existElement(String key)"}
+{"logLevel":"debug","message":"\t{} li elemente {} text değeri yazılabilir mi : public boolean isTextBoxEditable(String key, String text)"}
+{"logLevel":"debug","message":"\tFind element by {} and save text {} : public void saveTextByKey(String key, String saveKey)"}
+{"logLevel":"debug","message":"\t{} li elementi bulana kadara yukarı swipe et : public void swipeUntilToFindElement(String key)"}
+{"logLevel":"debug","message":"\t{} li elementi bul ve {} değerini tek tek yaz : public void sendKeysValueOfClear(String key, String text)"}
+{"logLevel":"debug","message":"\tFind element by {} text equals {} and click : public void clickByIdWithContains(String key, String text)"}
+{"logLevel":"debug","message":"\t{} li elementi bul ve tıkla, sonra klavyeyi kapat : public void clickByKeyAndThenCloseKeyboard(String key)"}
+{"logLevel":"debug","message":"\t15 saniye bekle : public void onbesSaniyeBekle() throws InterruptedException"}
+{"logLevel":"debug","message":"\tPress ESC for android : public void pressEscKeyForAndroid()"}
+{"logLevel":"debug","message":"\tTamam butonuna tıkla : public void clickOKButton()"}
+{"logLevel":"debug","message":"\tDropdown dan key {} alanını seç : public void selectDropdawnoNKey(String key)"}
+{"logLevel":"debug","message":"\tFind element text equals {} and click : public void clickByText(String text)"}
+{"logLevel":"debug","message":"\t{} değerini sayfa üzerinde olup olmadığını kontrol et. : public void getPageSourceFindWord(String key)"}
+{"logLevel":"debug","message":"\t{} li elementi bul ve {} kere sil : public void clickAndDelete(String key, ınt times)"}
+{"logLevel":"debug","message":"\tDeğeri {} e eşit olan elementli bul ve tıkla : public void clickByText(String text)"}
+{"logLevel":"debug","message":"\tWait for element to load with key {} : public MobileElement getElementWithKeyIfExists(String key) throws InterruptedException"}
+{"logLevel":"debug","message":"\tFind element by {}  swipe and click : public void clickByKeyWithSwipe(String key) throws InterruptedException"}
+{"logLevel":"debug","message":"\t{} li elementi bul ve varsa tıkla : public void existClickByKey(String key)"}
+{"logLevel":"debug","message":"\t{} kere aşağıya kaydır : public void swipe(ınt times) throws InterruptedException"}
+{"logLevel":"debug","message":"\tVerify toast message {} : public void verifyToast(String text)"}
+{"logLevel":"debug","message":"\t{} kere yukarı doğru kaydır : public void swipeUP(ınt times) throws InterruptedException"}
+{"logLevel":"debug","message":"\tFind element by {} and send keys {} : public void sendKeysByKeyNotClear(String key, String text)"}
+{"logLevel":"debug","message":"\tClose Keyboard : public void closeKeyboard()"}
+{"logLevel":"debug","message":"\tDebug step : public void debugStep()"}
+{"logLevel":"debug","message":"\tClick element by Sign_in_btn : public void ClicSiginButton()"}
+{"logLevel":"debug","message":"\tGaleriden fotograf seç : public void selectPhotoFromGallery() throws InterruptedException"}
+{"logLevel":"debug","message":"\tFind element by {} text equals {} swipe down and click : public void clickByKeyWithSwipeDown(String key, String text) throws InterruptedException"}
+{"logLevel":"debug","message":"\t{} li elementin değeri {} e eşitliğini kontrol et : public void equalsTextByKey(String key, String text)"}
+{"logLevel":"debug","message":"\tChange context to {} : public void setContext(String key)"}
+{"logLevel":"debug","message":"\tUygulamada login kontrolünü yap : public void LoginControl() throws InterruptedException"}
+{"logLevel":"debug","message":"\tWait {} milliseconds : public void waitByMilliSeconds(long milliseconds)"}
+{"logLevel":"debug","message":"\t{} li elementi bulana kadar swipe et ve tıkla : public void clickByKeyWithSwipe(String key) throws InterruptedException"}
+{"logLevel":"debug","message":"\t{} li elementi rasgele sec : public void chooseRandomProduct(String key)"}
+{"logLevel":"debug","message":"\tPress TAB for android : public void pressTabKeyForAndroid()"}
+{"logLevel":"debug","message":"\tKlavyeyi kapat : public void hideAndroidKeyboard()"}
+{"logLevel":"debug","message":"\tuygulamayı yeniden başlat : public void restart() throws InterruptedException"}
+{"logLevel":"debug","message":"\tFind element value equals {} and click : public void clickByValue(String value)"}
+{"logLevel":"debug","message":"\tdeneme checkbox : public void denemeCheckbox()"}
+{"logLevel":"debug","message":"\t{} milisaniye bekle : public void waitByMilliSeconds(long milliseconds)"}
+{"logLevel":"debug","message":"\tFind element by {} and text equals {} : public void equalsTextByKey(String key, String text)"}
+{"logLevel":"debug","message":"\tpop-up izin ver : public void closePopupAndCookie() throws InterruptedException"}
+{"logLevel":"debug","message":"\tYeni şifre {} ve yeni şifre tekrar {}  alanlarına tex değerlerini yaz : public void writeNewPassword(String text, String textrepeat)"}
+{"logLevel":"debug","message":"\t{} elementi {} değerini içeriyor mu kontrol et : public void checkElementContainsText(String key, String expectedText)"}
+{"logLevel":"debug","message":"\tClick element by {} then close keyboard : public void clickByKeyAndThenCloseKeyboard(String key)"}
+{"logLevel":"debug","message":"\t5 saniye bekle : public void fiveSecondsWait() throws InterruptedException"}
+{"logLevel":"debug","message":"\t{} li elementin yüklenmesini {} saniye bekle : public boolean doesElementExistByKey(String key, ınt time)"}
+{"logLevel":"debug","message":"\tİd li {} elemetin {} index değerini al ve {} değerini yaz : public void SetObjectByindex(String id, ınt index, String key)"}
+{"logLevel":"debug","message":"\t{} li elementi bul ve temizle : public void ClearText(String key)"}
+{"logLevel":"debug","message":"\t{} değerini klavye ile yaz : public void sendKeysWithAndroidKey(String text)"}
+{"logLevel":"debug","message":"\tClick element by Tick_Symbol_Btn : public void ClicTick_Symbol_Btn()"}
+{"logLevel":"debug","message":"\tFind element by {} and compare saved key {} : public void equalsSaveTextByKey(String key, String saveKey)"}
+{"logLevel":"debug","message":"\t{} li element sayfada bulunuyor mu ve disabled mı : public void isExistAndDisabled(String key)"}
+{"logLevel":"debug","message":"\tCheck if element {} exists : public MobileElement getElementWithKeyIfExists(String key) throws InterruptedException"}
+{"logLevel":"debug","message":"\tPincode Değeri {} e eşit olan elementli bul ve tıkla : public void clickByTextonPincodeArea(String text)"}
+{"logLevel":"debug","message":"\t{} elementi {} değerini eşit mi kontrol et : public void checkElementEqualsText(String key, String expectedText)"}
+{"logLevel":"debug","message":"\tFind element by {} clear and send keys  random email : public void RandomeMail(String key)"}
+{"logLevel":"debug","message":"\t {} yönüne swipe et : public void swipe(String yon)"}
+{"logLevel":"debug","message":"\tSwipe up times {} : public void swipeUP(ınt times) throws InterruptedException"}
+{"logLevel":"debug","message":"\tClick element by {} if exist : public void existClickByKey(String key)"}
+{"logLevel":"debug","message":"\tCheck if element {} is not empty : public void checkElementIsNotEmpty(String key)"}
+{"logLevel":"debug","message":"\tMiddle  on page  and Swipe times {} : public void MiddlePageswipe(ınt times)"}
+{"logLevel":"debug","message":"\t{} li elementi bul, temizle ve rasgele  email değerini yaz : public void RandomeMail(String key)"}
+{"logLevel":"debug","message":"\t{} li elementin  merkezine double tıkla  : public void pressElementWithKey2(String key)"}
+{"logLevel":"debug","message":"\t{} li elementi bulana kadar swipe et : public void findByKeyWithSwipe(String key)"}
+{"logLevel":"debug","message":"\t{} li element varsa  {} {} koordinatına tıkla  : public void tapElementWithKeyCoordinate(String key, ınt x, ınt y)"}
+{"logLevel":"debug","message":"\t{} uzunlugunda random bir kelime üret ve {} olarak sakla : public void createRandomNumber(ınt length, String saveKey)"}
+{"logLevel":"debug","message":"\tSayfanın ortasından itibaren {} kere aşağıya kaydır : public void swipeDownFromMiddleOfPageBy(ınt times) throws InterruptedException"}
+{"logLevel":"debug","message":"\tFind element by {}  {} swipe  : public void swipeDownUntilSeeTheElement(String element, ınt limit) throws InterruptedException"}
+{"logLevel":"debug","message":"\t{} li elementi bul, temizle ve {} değerini yaz : public void sendKeysByKey(String key, String text)"}
+{"logLevel":"debug","message":"\tDeğeri {} e eşit olan {}. elementi bul ve tıkla : public void clickByText(String text, ınt index)"}
+{"logLevel":"debug","message":"\tFind element by {} if not exist show error message {} : public void isElementExist(String key, String message)"}
+{"logLevel":"debug","message":"\tHide keyboard : public void hideAndroidKeyboard()"}
+{"logLevel":"debug","message":"\tCheck if {} element exist : public void existElement(String key)"}
+{"logLevel":"debug","message":"\tKullanıcı girişi yapılmışsa çıkış yap : public void logout() throws InterruptedException"}
+{"logLevel":"debug","message":"\tİçeriği {} e eşit olan elementli bul ve tıkla : public void clickByValue(String value)"}
+{"logLevel":"debug","message":"\t{},{},{} kaydır baakalım : public void sliderSwipe(String key, ınt startPointX, ınt finishPointX)"}
+{"logLevel":"debug","message":"\tFind element by {} and clear text : public void ClearText(String key)"}
+{"logLevel":"debug","message":"\tRestart the application : public void restart() throws InterruptedException"}
+{"logLevel":"debug","message":"\t5S için {} elementini bulana kadar yukarı kaydır : public void swipeFor5S(String element)"}
+{"logLevel":"debug","message":"\t{} li elementi bul basılı tut : public void basiliTut(String key)"}
+{"logLevel":"debug","message":"\t{} li ve değeri {} e eşit olan elementli bul ve tıkla : public void clickByIdWithContains(String key, String text)"}
+{"logLevel":"debug","message":"\tgiris yap butonuna tikla : public void clickLoginButton() throws InterruptedException"}
+{"logLevel":"debug","message":"\tVerilen {} {} koordinatına tıkla : public void tapElementWithCoordinate(ınt x, ınt y)"}
+{"logLevel":"debug","message":"\tSwipe times {} from middle of the page : public void swipeDownFromMiddleOfPageBy(ınt times) throws InterruptedException"}
+{"logLevel":"debug","message":"\tCheck if element {} equals text {} : public void checkElementEqualsText(String key, String expectedText)"}
+{"logLevel":"debug","message":"\tİçeriği {} e eşit olan {}. elementi bul ve tıkla : public void clickByValue(String value, ınt index)"}
+{"logLevel":"debug","message":"\tWait {} seconds : public void waitBySecond(ınt seconds)"}
+{"logLevel":"debug","message":"\tCheck if element {} not exists : public void checkElementNotExists(String key)"}
+{"logLevel":"debug","message":"\t{} li elementi bul ve {} değerini yaz : public void sendKeysByKeyNotClear(String key, String text)"}
+{"logLevel":"debug","message":"\tsayfadaki {} {}  alana dokun : public void coordinateTap(ınt X, ınt Y)"}
+{"logLevel":"debug","message":"\t{} li elementin değeri {} e içerdiğini kontrol et : public void containsTextByKey(String key, String text)"}
+{"logLevel":"debug","message":"\t10 saniye bekle : public void tenSecondsWait() throws InterruptedException"}
+{"logLevel":"debug","message":"\tFind element by {} text equals {} swipe and click : public void clickByKeyWithSwipe(String key, String text) throws InterruptedException"}
+{"logLevel":"debug","message":"\t{} li elementi bul ve değerini {} olarak sakla : public void saveTextByKey(String key, String saveKey)"}
+{"logLevel":"debug","message":"\tTestinium : public void TestiniumPage()"}
+{"logLevel":"debug","message":"\tAnasayfa widget kontrolü : public void maninPagewidgetControl() throws InterruptedException"}
+{"logLevel":"debug","message":"\tİd li {} elemetin {} index değerini al ve elemente tıkla : public void ClickObjectByindex(String id, ınt index)"}
+{"logLevel":"debug","message":"\t{} li ve değeri {} e eşit olan elementli bulana kadar swipe et ve tıkla : public void clickByKeyWithSwipe(String key, String text) throws InterruptedException"}
+{"logLevel":"debug","message":"\tsayfadaki {} {}  alana tıkla : public void coordinateTap2(ınt X, ınt Y)"}
+{"logLevel":"debug","message":"\tUrun stokta var mi kontrol et : public void stokKontrol() throws Exception"}
+{"logLevel":"debug","message":"\tPress ENTER for android : public void pressEnterKeyForAndroid()"}
+{"logLevel":"debug","message":"\t{} li elementi bul {} kere tıkla : public void bulTikla(String key, ınt times)"}
+{"logLevel":"debug","message":"\t{} li elementi bul ve tıkla : public void clickByKey(String key)"}
+{"logLevel":"debug","message":"\tSwipe times {} : public void swipe(ınt times) throws InterruptedException"}
+{"logLevel":"debug","message":"\t{} li elementi bul ve varsa dokun : public void existTapByKey(String key)"}
+{"logLevel":"debug","message":"\tFind element pizza  equals {} and click : public void clickByTextonPizza(String text)"}
+{"logLevel":"debug","message":"\t{}li elementi bulana kadar {} kere swipe yap ve elementi bul : public void swipeKeyy(String key, ınt limit) throws InterruptedException"}
+{"logLevel":"debug","message":"\t{} li elementin  merkezine tıkla  : public void tapElementWithKey(String key)"}
+{"logLevel":"debug","message":"\tElement yok mu kontrol et {} : public void checkElementNotExists(String key)"}
+{"logLevel":"debug","message":"\tPizza {} e eşit olan elementli bul ve tıkla : public void clickByTextonPizza(String text)"}
+{"logLevel":"debug","message":"\tElement var mı kontrol et {} : public MobileElement getElementWithKeyIfExists(String key) throws InterruptedException"}
+{"logLevel":"debug","message":"\t{} id'li elementi bulana kadar {} swipe yap  : public void swipeDownUntilSeeTheElement(String element, ınt limit) throws InterruptedException"}
+{"logLevel":"debug","message":"\t{} saniye bekle : public void waitBySecond(ınt seconds)"}
+{"logLevel":"debug","message":"\tFind element by {} clear and send keys {} : public void sendKeysByKey(String key, String text)"}
+{"logLevel":"debug","message":"\t{} li elemente kadar {} textine sahip değilse ve {} saniyede bulamazsa swipe yappp : public void swipeAndFindwithKey(String key, String text, ınt timeout)"}
+{"logLevel":"debug","message":"\tElementin yüklenmesini bekle {} : public MobileElement getElementWithKeyIfExists(String key) throws InterruptedException"}
+{"logLevel":"debug","message":"\tFind element by {} and text contains {} : public void containsTextByKey(String key, String text)"}
+{"logLevel":"debug","message":"\tCheck if element {} contains text {} : public void checkElementContainsText(String key, String expectedText)"}
+{"logLevel":"debug","message":"\t{} li elementi bul yoksa {} mesajını hata olarak göster : public void isElementExist(String key, String message)"}
+{"logLevel":"debug","message":"\t{} li ve değeri {} e eşit olan elementi bulana kadar aşağı swipe et ve tıkla : public void clickByKeyWithSwipeDown(String key, String text) throws InterruptedException"}
+{"logLevel":"debug","message":"\t{},{} oranlarından {},{} oranlarına {} kere swipe et : public void pointToPointSwipe(ınt startX, ınt startY, ınt endX, ınt endY, ınt count)"}
+{"logLevel":"debug","message":"\tUygulamanın açıldığını kontrol et : public void checkApp() throws InterruptedException"}
+{"logLevel":"debug","message":"\tClick element by {} : public void clickByKey(String key)"}
+{"logLevel":"debug","message":"\t{} li elementin  merkezine  press ile çift tıkla  : public void pressElementWithKey(String key)"}
+{"logLevel":"debug","message":"\t{} li elementin {} attribute değerinin {} e eşit olduğunu kontrol et  : public void equalsAttributeValue(String key, String attributeName, String value)"}
+{"logLevel":"debug","message":"\tSwipe down until find element by {} : public void findByKeyWithSwipe(String key)"}
+{"logLevel":"debug","message":"\t{} li elementi bul ve değerini {} saklanan değer ile karşılaştır : public void equalsSaveTextByKey(String key, String saveKey)"}
+{"logLevel":"debug","message":"started gRPC server on port 55494"}
+{"logLevel":"info","message":"Listening on port:55494"}
+!!!!!!!!!!!!!!!!!!!!!!!!!!!Test baslıyor!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+2020-12-18 00:12:23 INFO  HookImpl:43 beforeScenario - Local Browser
+Ara 18, 2020 12:12:36 AM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+{"logLevel":"debug","message":"Executing '15 saniye bekle' using 'class com.Testinium.inceHesap.StepImpl.onbesSaniyeBekle"}

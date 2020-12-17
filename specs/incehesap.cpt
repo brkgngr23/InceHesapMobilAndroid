@@ -1,0 +1,84 @@
+Created by testinium on 15.12.2020
+
+This is a concept file with following syntax for each concept.
+# İncehesap uygulamasını aç ve login ol
+*15 saniye bekle
+//*"Anladım" li elementi bul ve tıkla
+//*5 saniye bekle
+*sayfadaki "77" "286"  alana tıkla
+*sayfadaki "74" "286"  alana tıkla
+*5 saniye bekle
+*"UyeGiris" li elementi bul ve tıkla
+*"Username" li elementi bul ve "batuhanzafer35@gmail.com" değerini yaz
+*"Password" li elementi bul ve "19891989" değerini yaz
+*"GirisYap" li elementi bul ve tıkla
+*5 saniye bekle
+
+# 'Cep telefonu' kelimesini arat
+
+*sayfadaki "468" "403"  alana tıkla
+*sayfadaki "472" "403"  alana tıkla
+*5 saniye bekle
+*"Cep telefonu" değerini klavye ile yaz
+*5 saniye bekle
+*Press ENTER for android
+*10 saniye bekle
+
+#Ürün seç
+*sayfadaki "101" "1529"  alana tıkla
+*sayfadaki "105" "1529"  alana tıkla
+*10 saniye bekle
+
+#Sepete ekle
+*Sayfanın  ortasından itibaren  "2" kere aşağıya kaydır
+*"SepeteEkle" li elementi bul ve tıkla
+
+#Sepete git
+*sayfadaki "1018" "286"  alana tıkla
+*sayfadaki "1021" "286"  alana tıkla
+*5 saniye bekle
+
+#Satın al
+*Sayfanın  ortasından itibaren  "2" kere aşağıya kaydır
+*"SatınAl" li elementi bul ve tıkla
+
+#Sepete git ve satın al
+*sayfadaki "1018" "286"  alana tıkla
+*sayfadaki "1021" "286"  alana tıkla
+*5 saniye bekle
+*Sayfanın  ortasından itibaren  "2" kere aşağıya kaydır
+*"SatınAl" li elementi bul ve tıkla
+*sayfadaki "492" "283"  alana tıkla
+*sayfadaki "495" "283"  alana tıkla
+*5 saniye bekle
+*sayfadaki "1018" "286"  alana tıkla
+*sayfadaki "1021" "286"  alana tıkla
+*5 saniye bekle
+
+#Anasayfaya geri dön
+*5 saniye bekle
+*sayfadaki "492" "283"  alana tıkla
+*sayfadaki "495" "283"  alana tıkla
+*5 saniye bekle
+
+#Sepeti Boşalt
+
+*"SepetiBoşalt" li elementi bul ve tıkla
+
+#Tüm ürünler menüsü üzerinden bir katagori seç
+*sayfadaki "77" "286"  alana tıkla
+*sayfadaki "74" "286"  alana tıkla
+*5 saniye bekle
+*"SolMenuTelefon" li elementi bul ve tıkla
+
+#Alt Katagori seç
+*"SolMenuCepTelefonu" li elementi bul ve tıkla
+*10 saniye bekle
+
+#Stoklu Ürünler Filtresini Uygula
+*"Filtrele" li elementi bul ve tıkla
+*"StokDurumu" li elementi bul ve tıkla
+*sayfadaki "62" "434"  alana tıkla
+*sayfadaki "66" "434"  alana tıkla
+*5 saniye bekle
+*Sayfanın  ortasından itibaren  "2" kere aşağıya kaydır
